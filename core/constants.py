@@ -1,0 +1,17 @@
+import pygame
+
+
+width = 950
+height = 800
+
+RED = (255, 0, 0)
+WHITE = (255, 255, 255)
+BLUE = (0, 0, 255)
+BLACK = (0, 0, 0)
+LIGHT_GREEN = (32, 168, 8)
+LIGHT_GRAY = (164, 168, 163)
+BRIGHT_GREEN = (102, 255, 0)
+
+TERMINAL_RED = '\033[91m'
+TERMINAL_YELLOW = '\u001b[33m'
+TERMINAL_RESET = '\033[0m'
